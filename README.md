@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik7454" alt="kartik7454" /></a> </p>
 
-- 🔭 I’m currently working on [campus connect](https://github.com/kartik7454/spark-starter-kit-main)  
+- 🔭 I’m currently working on [Movie_match](https://github.com/kartik7454/Movie_match)  
 - 🌱 I’m currently learning **next js**  
 - 📫 How to reach me **kb848067@gmail.com**
 
