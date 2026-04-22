@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik7454" alt="kartik7454" /></a> </p>
 
-- 🔭 I’m currently working on [Movie_match](https://github.com/kartik7454/Movie_match)  
-- 🌱 I’m currently learning **next js**  
+- 🔭 I’m currently working on [SmartSched]([https://github.com/kartik7454/Movie_match](https://github.com/kartik7454/smartSched))  
+- 🌱 I’m currently learning **nest js**  
 - 📫 How to reach me **kb848067@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
